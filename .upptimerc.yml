@@ -7,9 +7,7 @@ sites:
   - name: CraftBuy.ru
     url: https://craftbuy.ru
     icon: https://craftbuy.ru/favicon.ico
-  - name: Panel.CraftBuy.ru
-    url: https://panel.craftbuy.ru
-    icon: https://panel.craftbuy.ru/favicons/favicon.ico
+    maxResponseTime: 10000 # default: 30000
     
 
 status-website:
