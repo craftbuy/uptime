@@ -16,12 +16,14 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
   logoUrl: https://craftbuy.ru/assets/img/logo_black.png
-  name: craftbuy.github.io/uptime - Uptime
+  name: Uptime
   introTitle: ""
   introMessage: Uptime monitor and status page, powered entirely by GitHub.
   navbar:
+    - title: Back to site
+      href: https://craftbuy.ru
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
