@@ -6,6 +6,7 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: CraftBuy.ru
     url: https://craftbuy.ru
+    method: HEAD
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 10000 # default: 30000
     
