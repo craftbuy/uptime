@@ -6,17 +6,15 @@
     "slug": "craft-buy-ru",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 560,
-    "timeWeek": 837,
-    "timeMonth": 961,
-    "timeYear": 961,
-    "dailyMinutesDown": {
-      "2021-01-07": 0
-    }
+    "time": 918,
+    "timeDay": 440,
+    "timeWeek": 774,
+    "timeMonth": 918,
+    "timeYear": 918,
+    "dailyMinutesDown": {}
   }
 ]
