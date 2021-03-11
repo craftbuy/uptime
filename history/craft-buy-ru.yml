@@ -1,7 +1,7 @@
 url: https://craftbuy.ru
-status: degraded
-code: 200
-responseTime: 15026
-lastUpdated: 2021-03-11T15:14:09.218Z
+status: down
+code: 503
+responseTime: 223
+lastUpdated: 2021-03-11T15:34:20.092Z
 startTime: Mon Dec 28 2020 12:19:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
