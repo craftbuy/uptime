@@ -5,18 +5,16 @@
     "icon": "https://craftbuy.ru/favicon.ico",
     "slug": "craft-buy-ru",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1194,
-    "timeDay": 685,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1192,
+    "timeDay": 698,
     "timeWeek": 1766,
-    "timeMonth": 1267,
-    "timeYear": 1194,
-    "dailyMinutesDown": {
-      "2021-03-16": 14
-    }
+    "timeMonth": 1258,
+    "timeYear": 1192,
+    "dailyMinutesDown": {}
   }
 ]
