@@ -7,9 +7,11 @@ sites:
   - name: CraftBuy.ru
     url: $CRAFTBUY_SITE
     icon: https://craftbuy.ru/favicon.ico
+    maxResponseTime: 10000 # default: 30000
   - name: CraftBuy.ru Services
     url: $CRAFTBUY_SERVICES
     icon: https://craftbuy.ru/favicon.ico
+    maxResponseTime: 10000 # default: 30000
     
 
 status-website:
