@@ -4,7 +4,7 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: CraftBuy.ru
+  - name: CraftBuy.ru Site
     url: $CRAFTBUY_SITE
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 10000 # default: 30000
