@@ -8,6 +8,10 @@ sites:
     url: $CRAFTBUY_SITE
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 10000 # default: 30000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: CraftBuy.ru Services
     url: $CRAFTBUY_SERVICES
     icon: https://craftbuy.ru/favicon.ico
