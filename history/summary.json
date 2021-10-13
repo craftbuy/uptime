@@ -6,9 +6,9 @@
     "slug": "craft-buy-ru-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 296,
     "timeDay": 347,
@@ -16,7 +16,7 @@
     "timeMonth": 300,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2021-10-13": 1
+      "2021-10-13": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$CRAFTBUY_SERVICES",
     "icon": "https://craftbuy.ru/favicon.ico",
     "slug": "craft-buy-ru-services",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 356,
-    "timeWeek": 336,
-    "timeMonth": 304,
+    "timeDay": 355,
+    "timeWeek": 338,
+    "timeMonth": 305,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 9
     }
   }
 ]
