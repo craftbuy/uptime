@@ -9,13 +9,13 @@ sites:
     url: $CRAFTBUY_SITE
     port: $CRAFTBUY_SITE_PORT
     icon: https://craftbuy.ru/favicon.ico
-    maxResponseTime: 10000 # default: 30000
+    maxResponseTime: 5000 # default: 30000
   - name: CraftBuy.ru Services
     check: "tcp-ping"
     url: $CRAFTBUY_SERVICES
     port: $CRAFTBUY_SERVICES_PORT
     icon: https://craftbuy.ru/favicon.ico
-    maxResponseTime: 10000 # default: 30000
+    maxResponseTime: 5000 # default: 30000
     
 
 status-website:
