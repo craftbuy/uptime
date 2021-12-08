@@ -16,8 +16,6 @@ sites:
     port: $CRAFTBUY_SERVICES_PORT
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 5000 # default: 30000
-    
-
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
