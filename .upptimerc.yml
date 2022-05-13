@@ -5,9 +5,7 @@ repo: uptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: CraftBuy.ru Site
-    check: "tcp-ping"
     url: $CRAFTBUY_SITE
-    port: $CRAFTBUY_SITE_PORT
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 5000 # default: 30000
   - name: CraftBuy.ru Service #2
