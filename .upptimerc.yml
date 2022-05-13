@@ -8,16 +8,16 @@ sites:
     url: $CRAFTBUY_SITE
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 5000 # default: 30000
-  - name: CraftBuy.ru Service #2
+  - name: CraftBuy.ru Service 2
     check: "tcp-ping"
-    url: $CRAFTBUY_SERVICES2
-    port: $CRAFTBUY_SERVICES_PORT
+    url: $CRAFTBUY_SERVICE2
+    port: $CRAFTBUY_SERVICE_PORT
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 5000 # default: 30000
-  - name: CraftBuy.ru Service #3
+  - name: CraftBuy.ru Service 3
     check: "tcp-ping"
-    url: $CRAFTBUY_SERVICES3
-    port: $CRAFTBUY_SERVICES_PORT
+    url: $CRAFTBUY_SERVICE3
+    port: $CRAFTBUY_SERVICE_PORT
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 5000 # default: 30000
 status-website:
