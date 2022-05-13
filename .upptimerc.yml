@@ -10,12 +10,10 @@ sites:
     maxResponseTime: 5000 # default: 30000
   - name: CraftBuy.ru Service #2
     url: $CRAFTBUY_SERVICES2
-    port: $CRAFTBUY_SERVICES_PORT
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 5000 # default: 30000
   - name: CraftBuy.ru Service #3
     url: $CRAFTBUY_SERVICES3
-    port: $CRAFTBUY_SERVICES_PORT
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 5000 # default: 30000
 status-website:
