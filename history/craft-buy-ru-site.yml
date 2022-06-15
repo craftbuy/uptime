@@ -1,7 +1,7 @@
 url: $CRAFTBUY_SITE
-status: degraded
+status: up
 code: 200
-responseTime: 18004
-lastUpdated: 2022-06-15T20:45:35.556Z
+responseTime: 1294
+lastUpdated: 2022-06-15T20:53:41.084Z
 startTime: Sat Mar 20 2021 07:17:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
