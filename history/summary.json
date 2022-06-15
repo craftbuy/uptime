@@ -6,18 +6,16 @@
     "slug": "craft-buy-ru-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 6824,
-    "timeWeek": 3065,
-    "timeMonth": 1540,
-    "timeYear": 455,
-    "dailyMinutesDown": {
-      "2022-06-15": 8
-    }
+    "time": 416,
+    "timeDay": 5388,
+    "timeWeek": 2867,
+    "timeMonth": 1527,
+    "timeYear": 457,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CraftBuy.ru Service 2",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
+    "time": 163,
     "timeDay": 137,
-    "timeWeek": 160,
-    "timeMonth": 161,
-    "timeYear": 164,
+    "timeWeek": 157,
+    "timeMonth": 160,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 136,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 164,
+    "time": 163,
+    "timeDay": 129,
+    "timeWeek": 155,
+    "timeMonth": 158,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   }
 ]
