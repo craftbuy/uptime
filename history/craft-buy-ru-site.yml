@@ -1,7 +1,7 @@
 url: $CRAFTBUY_SITE
-status: up
-code: 200
-responseTime: 1502
-lastUpdated: 2022-06-30T03:17:02.393Z
+status: down
+code: 403
+responseTime: 252
+lastUpdated: 2022-06-30T05:49:06.761Z
 startTime: Sat Mar 20 2021 07:17:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
