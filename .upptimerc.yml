@@ -8,6 +8,11 @@ sites:
     url: $CRAFTBUY_SITE
     icon: https://craftbuy.ru/favicon.ico
     maxResponseTime: 30000 # default: 30000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 403
   - name: CraftBuy.ru Service 2
     check: "tcp-ping"
     url: $CRAFTBUY_SERVICE2
