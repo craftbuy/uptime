@@ -4,18 +4,20 @@
     "url": "$CRAFTBUY_SITE",
     "icon": "https://craftbuy.ru/favicon.ico",
     "slug": "craft-buy-ru-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 1426,
-    "timeWeek": 1434,
-    "timeMonth": 1246,
-    "timeYear": 728,
-    "dailyMinutesDown": {}
+    "time": 578,
+    "timeDay": 794,
+    "timeWeek": 1253,
+    "timeMonth": 1215,
+    "timeYear": 726,
+    "dailyMinutesDown": {
+      "2022-08-30": 0
+    }
   },
   {
     "name": "CraftBuy.ru Service 2",
