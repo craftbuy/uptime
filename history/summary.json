@@ -9,14 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 964,
-    "timeDay": 703,
-    "timeWeek": 899,
-    "timeMonth": 869,
-    "timeYear": 1180,
+    "uptimeYear": "100.00%",
+    "time": 965,
+    "timeDay": 724,
+    "timeWeek": 880,
+    "timeMonth": 865,
+    "timeYear": 1179,
     "dailyMinutesDown": {
-      "2023-02-16": 16,
       "2022-12-15": 23
     }
   },
@@ -32,12 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 216,
-    "timeDay": 200,
-    "timeWeek": 258,
-    "timeMonth": 236,
+    "timeDay": 207,
+    "timeWeek": 252,
+    "timeMonth": 235,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-01-25": 26,
       "2022-08-17": 167
     }
   },
@@ -47,18 +45,16 @@
     "icon": "https://craftbuy.ru/favicon.ico",
     "slug": "craft-buy-ru-service-3",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 136,
-    "timeWeek": 203,
-    "timeMonth": 206,
+    "timeDay": 157,
+    "timeWeek": 200,
+    "timeMonth": 205,
     "timeYear": 197,
-    "dailyMinutesDown": {
-      "2023-01-25": 25
-    }
+    "dailyMinutesDown": {}
   }
 ]
