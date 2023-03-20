@@ -32,7 +32,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://craftbuy.ru/assets/img/logo_black.png
   name: Uptime
-  theme: dark
+  theme: light
   introTitle: ""
   introMessage: Uptime monitor and status page, powered entirely by GitHub.
   navbar:
