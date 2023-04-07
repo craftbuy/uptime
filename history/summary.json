@@ -6,17 +6,16 @@
     "slug": "craft-buy-ru-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 989,
-    "timeDay": 916,
-    "timeWeek": 1006,
-    "timeMonth": 924,
-    "timeYear": 1182,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 990,
+    "timeDay": 920,
+    "timeWeek": 1007,
+    "timeMonth": 923,
+    "timeYear": 1184,
     "dailyMinutesDown": {
-      "2023-04-06": 9,
       "2022-12-15": 23
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 217,
-    "timeDay": 248,
-    "timeWeek": 236,
-    "timeMonth": 235,
+    "timeDay": 258,
+    "timeWeek": 242,
+    "timeMonth": 234,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-08-17": 167
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 190,
-    "timeWeek": 234,
-    "timeMonth": 205,
+    "timeDay": 205,
+    "timeWeek": 223,
+    "timeMonth": 203,
     "timeYear": 198,
     "dailyMinutesDown": {}
   }
