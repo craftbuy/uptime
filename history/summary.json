@@ -24,7 +24,7 @@
     "url": "$CRAFTBUY_SERVICE2",
     "icon": "https://craftbuy.ru/favicon.ico",
     "slug": "craft-buy-ru-service-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "88.46%",
     "uptimeWeek": "98.35%",
