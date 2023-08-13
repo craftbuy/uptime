@@ -13,22 +13,18 @@ sites:
       - 201
       - 404
       - 403
-  - name: CraftBuy.ru Service 3
-    url: $CRAFTBUY_SERVICE3
-    icon: https://craftbuy.ru/favicon.ico
-    maxResponseTime: 5000 # default: 30000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-      - 403
-      - 400
-  #- name: CraftBuy.ru Service 3
+  #- name: CraftBuy.ru Service 2
     #check: "tcp-ping"
-    #url: $CRAFTBUY_SERVICE3
+    #url: $CRAFTBUY_SERVICE2
     #port: $CRAFTBUY_SERVICE_PORT
     #icon: https://craftbuy.ru/favicon.ico
     #maxResponseTime: 5000 # default: 30000
+  - name: CraftBuy.ru Service 3
+    check: "tcp-ping"
+    url: $CRAFTBUY_SERVICE3
+    port: $CRAFTBUY_SERVICE_PORT
+    icon: https://craftbuy.ru/favicon.ico
+    maxResponseTime: 5000 # default: 30000
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
