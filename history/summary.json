@@ -13,7 +13,7 @@
     "time": 711,
     "timeDay": 801,
     "timeWeek": 989,
-    "timeMonth": 1003,
+    "timeMonth": 995,
     "timeYear": 589,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "$CRAFTBUY_SERVICE3",
     "icon": "https://craftbuy.ru/favicon.ico",
     "slug": "craft-buy-ru-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
