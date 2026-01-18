@@ -1,7 +1,7 @@
 url: $CRAFTBUY_SERVICE3
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-18T21:53:16.453Z
+status: up
+code: 200
+responseTime: 197
+lastUpdated: 2026-01-18T22:09:21.050Z
 startTime: 2024-09-15T20:22:16.439Z
 generator: Upptime <https://github.com/upptime/upptime>
