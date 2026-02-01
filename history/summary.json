@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 807,
-    "timeWeek": 892,
-    "timeMonth": 939,
-    "timeYear": 711,
+    "time": 604,
+    "timeDay": 843,
+    "timeWeek": 895,
+    "timeMonth": 937,
+    "timeYear": 713,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,15 @@
     "slug": "craft-buy-ru-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 168,
-    "timeWeek": 175,
+    "timeDay": 180,
+    "timeWeek": 177,
     "timeMonth": 167,
     "timeYear": 103,
-    "dailyMinutesDown": {
-      "2026-01-31": 32
-    }
+    "dailyMinutesDown": {}
   }
 ]
